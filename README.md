@@ -11,3 +11,4 @@ Please find the resource links for the project below:
 - [Introduction & Business Problem]()
 - [Sales Analytics Report Implementation]()
 - [Finance Analytics Report Implementation]()
+- [AtliQ Hardwares Sales & Finance Analytics Report]()
