@@ -1,4 +1,4 @@
-# AtliQ Hardwares Business Introduction
+# 📝 AtliQ Hardwares Project Implementation
 
 **Domain:** FMCG
 
@@ -26,3 +26,28 @@
   AtliQ’s business users have tasked the Data Analyst team with preparing an Excel Analysis Report focused on Sales and Financial performance by analyzing data from multiple files with over     1.5 million records to help them derive data insights towards boosting business growth.
 
 ---
+
+## Data Sources & Tools:
+**Data Sources: Sales & Finance**
+
+![image](https://github.com/5ifar/AtliQHardwares/assets/146955609/fc7d37af-acbf-4596-83dc-8335ee737b0b)
+
+**Analysis Tool & Skills:**
+
+- Microsoft Excel:
+  - Power Query
+  - Pivot Table
+  - Power Pivot
+  - Data Modelling
+  - DAX Measures & Columns
+  - Conditional Formatting
+
+---
+
+## Data Model:
+**Entity Relationship Diagram:**
+
+![AtliQ Hardwares Data Model ERD Final](https://github.com/5ifar/AtliQHardwares/assets/146955609/f575249b-401c-4d2a-b671-b10056641c09)
+
+---
+
