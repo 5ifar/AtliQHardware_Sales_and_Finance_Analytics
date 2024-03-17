@@ -6,6 +6,8 @@ It showcases my competancy to work with Microsoft Excel and demonstrates my prof
 
 The entire project has been implemented using Microsoft Excel 2016.
 
+The project files have not been uploaded to this repository in compliance with Codebasics Data & Content Distribution Policy.
+
 ## 📚 Table of Contents
 Please find the resource links for the project below:
 - [Introduction & Business Problem]()
