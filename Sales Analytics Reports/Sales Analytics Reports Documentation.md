@@ -1,4 +1,4 @@
-# 🛒 Sales Analytics Report
+# 🛒 Sales Analytics Reports
 ---
 
 ## Table of Contents
