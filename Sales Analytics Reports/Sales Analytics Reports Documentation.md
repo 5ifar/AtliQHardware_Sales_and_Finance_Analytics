@@ -27,13 +27,13 @@ Empowering businesses to monitor, evaluate, and enhance their sales activities a
 ---
 
 ## Reports List:
-1. Customer Performance Report: Assessed Customer Net Sales performance across 2019, 2020, 2021 year period.
-2. Market Performance vs Targets Report: Analyzed Market Net Sales performance against Net Sales Targets in 2021.
-3. Top 10 Products Report: Identified Top 10 Products by Net Sales Increment % in 2021 vs 2020.
-4. Division Report: Documented Divison level Net Sales performance across 2020 & 2021 with a focus on Net Sales Increment % in 2021 vs 2020.
-5. Top & Bottom 5 Products Report: Identified the Top and Bottom 5 products by Qty sold across the 3 year period.
-6. New Products 2021 Report: Assessed Net Sales performance of 16 new products launched in 2021.
-7. Top 5 Country Report: Listed Top 5 countries leading Net Sales figures in 2021.
+1. [Customer Performance Report](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Files/Customer%20Performance%20Report.pdf): Assessed Customer Net Sales performance across 2019, 2020, 2021 year period.
+2. [Market Performance vs Targets Report](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Files/Market%20Performance%20vs%20Target%20Report.pdf): Analyzed Market Net Sales performance against Net Sales Targets in 2021.
+3. [Top 10 Products Report](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Files/Top%2010%20Products%20Report.pdf): Identified Top 10 Products by Net Sales Increment % in 2021 vs 2020.
+4. [Division Report](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Files/Division%20Report.pdf): Documented Divison level Net Sales performance across 2020 & 2021 with a focus on Net Sales Increment % in 2021 vs 2020.
+5. [Top & Bottom 5 Products Report](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Files/Top%20%26%20Bottom%205%20Products%20Report.pdf): Identified the Top and Bottom 5 products by Qty sold across the 3 year period.
+6. [New Products 2021 Report](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Files/New%20Products%202021%20Report.pdf): Assessed Net Sales performance of 16 new products launched in 2021.
+7. [Top 5 Country Report](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Files/Top%205%20Country%20Report.pdf): Listed Top 5 countries leading Net Sales figures in 2021.
 
 ---
 
