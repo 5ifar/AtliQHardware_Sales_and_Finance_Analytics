@@ -75,7 +75,7 @@ Remove year & FY Month column to avoid confusion.
 6. Add the NetSales2019, NetSales2020, NetSales2021 & NetSales2021vs2020 Measures to the Values Area in Power Pivot.
 7. To boost User Readability:
 
-    i. Convert all NetSales Measures to Million denomination by changing the Value Field Number Format to Custom: $ #,##0.0,, "M" → This will give NetSales with 1 decimal accuracy in Million         Dollars.
+    i. Convert all NetSales Measures to Million denomination by changing the Value Field Number Format to Custom: $ #,##0.0,, "M" → This will give NetSales with 1 decimal accuracy in Million        Dollars.
    
     ii. Remove Gridlines and set Page Layout in View Tab along with Border setup.
    
@@ -87,3 +87,40 @@ Remove year & FY Month column to avoid confusion.
     ii. For the NetSales 2021vs2020 Column set Data Bar Formatting with Orange Gradient fill.
    
 10. Add AtliQ Hardware Logo and “AtliQ Hardwares” as the Report Header Title. Add “Customer Net Sales Performance Report” as the Report Title.
+
+### Market Sales Performance vs Target Report:
+To Do: 1. Add Target Data 2. Connect it to the data model
+1. Copy the Customer Net Sales Performance Power Pivot sheet to a new sheet and rename sheet and report title to Market Performance vs Target Report.
+2. Remove irrelevant columns like Sales 2021 vs 2020. Replace Customers in Rows Area by Market (i.e. Countries) and rename the Column header to reflect the same.
+3. Create New Query to import data thorugh CSV file ns_targets_2021.csv. Configure Load as Connection Only and Add to Data Model.
+4. In Power Pivot Data Model Diagram View, we’ll now configure the table relationships:
+
+|Primary Key| |Foreign Key|
+|-|-|-|
+|market (PK, dim_market)|→|market (FK, ns_targets_2021)|
+|date (PK, dim_date)|→|date (FK, ns_targets_2021)|
+
+5. Create SalesTarget2021 Measure using DAX formula: SUM(ns_targets_2021[ns_target]) in the ns_targets_2021 table. Set data type as $ Currency with 2 decimal accuracy.
+6. Create Sales2021 - SalesTarget2021 Measure using DAX formula: [NetSales2021] - [SalesTarget2021] in the ns_targets_2021 table. Set data type as $ Currency with 2 decimal accuracy. Add this Measure to the Values Area in Pivot table.
+7. Convert both the above Measures to Million denomination by changing the Value Field Number Format to Custom: $ #,##0.0,, "M" → This will give Sales with 1 decimal accuracy in Million Dollars.
+8. Create Sales2021 - SalesTarget2021 % Measure using DAX formula: DIVIDE([Sales2021 - SalesTarget2021], [SalesTarget2021], 0) in the ns_targets_2021 table. Set data type as Number Percentage with 1 decimal accuracy. Add this Measure to the Values Area in Pivot table.
+9. Sort the Pivot Table by Ascending Sales2021 - SalesTarget2021 % Column values for best stakeholder experience in identifying Markets with high gap in Target and Actual Net Sales in 2021.
+10. Configure Conditional Formatting:
+
+    i. For the Sales2021 - SalesTarget2021 % Column set Data Bar Formatting with Red Gradient fill since it has negative values.
+    
+    ii. For Sales2021 - SalesTarget2021 Column set Highlight Cell Formatting with 3 colour scale: Dark Yellow for low values, Light Yellow for average values and White for high values since          the values are negative.
+
+### Top 10 Products by Sales Increment Report:
+To Do: Add Product Value Filter for Top 10 products.
+1. Copy the Customer Net Sales Performance Power Pivot sheet to a new sheet and rename sheet and report title to Top 10 Products by Sales Increment Report.
+2. Remove irrelevant columns like Sales 2019. Replace Customers in Rows Area by Product and rename the Column header to reflect the same. Replace Market Filter by Customer in Filters Area. Enable Select Multiple Items for Filters.
+3. Create SalesIncrement2021vs2020% Measure using DAX formula: DIVIDE([NetSales2021]-[NetSales2020],[NetSales2020],0) in the fact_sales_monthly table. Set data type as Number Percentage with 1 decimal accuracy. Add this Measure to the Values Area in Pivot table.
+4. Configure a Top 10 Value Filter on Products based on SalesIncrement2021vs2020% Measure column.
+5. Sort the Pivot Table by Descending SalesIncrement2021vs2020% Column values for best stakeholder experience in identifying Products with high Sales Increment % in 2021.
+6. Configure Conditional Formatting:
+
+    i. For Sales 2020 & Sales2021 Column set Highlight Cell Formatting with 3 colour scale: White for low values, Light Yellow for average values and Dark Yellow for high values.
+   
+    ii. For the SalesIncrement2021vs2020% Column set Data Bar Formatting with Orange Gradient fill.
+
