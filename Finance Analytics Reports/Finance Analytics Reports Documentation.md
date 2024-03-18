@@ -2,6 +2,15 @@
 ---
 
 ## Table of Contents
+- [Finance Analytics Purpose](#Finance-Analytics-Purpose)
+- [Reports List](#Reports-List)
+- [Finance Analytics Reports Detailed Implementation](#Finance-Analytics-Reports-Detailed-Implementation)
+  - [Import Finance Data](#Import-Finance-Data)
+  - [P & L by Years Report](#P--L-by-Years-Report)
+  - [Adding Months and Quarters in dim_date Data Model](#Adding-Months-and-Quarters-in-dim_date-Data-Model)
+  - [P & L by Months Report](#P--L-by-Months-Report)
+  - [P & L by Markets Report](#P--L-by-Markets-Report)
+  - [GM% by Quarters Report](#GM-by-Quarters-Report)
 
 ---
 
@@ -32,7 +41,7 @@ Evaluating financial performance, aiding decision-making, and fostering stakehol
 |product_code (PK, dim_product)|→|product_code (FK, finance_ref)|
 |date (PK, dim_date)|→|date (FK, finance_ref)|
 
-### P & L by Year Report:
+### P & L by Years Report:
 1. Insert Power Pivot from Insert Tab based on the Data Model created.
 2. Add NetSales Measure to the Values Area. Add region (from dim_market), market (from dim_market) & division (from dim_product) to Filters Area in Pivot table. Enable Select Multiple Items for Filters.
 3. Add FY Measure from dim_date table to the Columns Area in Pivot table.
@@ -53,7 +62,7 @@ This will get us the month part of 4 months ahead of the date column.
 3. Add a new column quarter(represents fiscal quarter) to the dim_date Data Model using formula: ="Q" & ROUNDUP([fy_month_nbr]/3,0)
 Here, ROUNDUP function acts similar to CEIL function in SQL, it rounds up the value to the next integer. Then we concatenate the “Q” to the start.
 
-### P & L by Month Report:
+### P & L by Months Report:
 1. Copy the P&L by Year Power Pivot sheet to a new sheet and rename sheet and report title to P & L Months.
 2. Add FY to the Filters Area. Add Quarter & mmm columns to the Columns Area.
 3. To order the mmm column values in the Pivot table by fiscal year i.e Sep to Aug, we’ll sort the mmm column in the Data Model by the  fy_month_nbr column in ascending order.
@@ -67,7 +76,7 @@ Here, ROUNDUP function acts similar to CEIL function in SQL, it rounds up the va
 3. Convert the NetSales, COGS & GrossMargin measures to Million denomination by changing the Value Field Number Format to Custom: #,##0.0,, "M" → This will give measures with 1 decimal accuracy in Millions.
 4. Configure Conditional Formatting: For NetSales, COGS, Gross Margin & GM% Metrics set Highlight Cell Formatting with 3 colour scale: White for low values, Yellow for average values and Dark Yellow for high values.
 
-### GM% by Quarters (sub_zone) Report:
+### GM% by Quarters Report:
 1. Copy the P&L by Month Power Pivot sheet to a new sheet and rename sheet and report title to  GM% by Quarters (sub_zone).
 2. Keep only FY in Filters Area. Keep quarter in Columns Area. Keep sub_zone in Rows Area. Keep GM% in Values Area. Add a filter for FY 2019.
 3. Configure Conditional Formatting: For GM% Metric set Highlight Cell Formatting with 3 colour scale: White for low values, Yellow for average values and Dark Yellow for high values.
