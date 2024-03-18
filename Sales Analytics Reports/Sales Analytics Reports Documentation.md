@@ -90,7 +90,7 @@ Remove year & FY Month column to avoid confusion.
 
     (Since we had set the FY column of type text to avoid aggregation we need to put them in double quotes as string.)
 
-5. Add a comparison Measure NetSales2021vs2020 using DAX formula: =DIVIDE([NetSales2021], [NetSales2020],0) and format it as Number Percentage with 1 decimal accuracy.
+5. Add a comparison Measure NetSales2021vs2020 using DAX formula: =DIVIDE([NetSales2021] - [NetSales2020], [NetSales2020],0) and format it as Number Percentage with 1 decimal accuracy.
 6. Add the NetSales2019, NetSales2020, NetSales2021 & NetSales2021vs2020 Measures to the Values Area in Power Pivot.
 7. To boost User Readability:
 
