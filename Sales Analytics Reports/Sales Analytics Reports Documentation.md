@@ -1,4 +1,23 @@
 # 🛒 Sales Analytics Report
+---
+
+## Table of Contents
+- [Sales Analytics Purpose](#Sales-Analytics-Purpose)
+- [Reports List](#Reports-List)
+- [Sales Analytics Reports Detailed Implementation](#Sales-Analytics-Reports-Detailed-Implementation)
+  - [ETL](#ETL)
+  - [Business Report Design Components](#Business-Report-Design-Components)
+  - [Data Modelling](#Data-Modelling)
+  - [New dim_date table using Power Query](#New-dim_date-table-using-Power-Query)
+  - [Customer Sales Performance Report](#Customer-Sales-Performance-Report)
+  - [Market Sales Performance vs Target Report](#Market-Sales-Performance-vs-Target-Report)
+  - [Top 10 Products by Sales Increment Report](#Top-10-Products-by-Sales-Increment-Report)
+  - [Division Sales Report](#Division-Sales-Report)
+  - [Top & Bottom 5 Products by Qty Report](#Top-&-Bottom-5-Products-by-Qty-Report)
+  - [New Products 2021 Report](#New-Products-2021-Report)
+  - [Top 5 Country 2021 Report](#Top-5-Country-2021-Report)
+
+---
 
 ## Sales Analytics Purpose: 
 Empowering businesses to monitor, evaluate, and enhance their sales activities and outcomes by unveiling sales patterns, tracking essential performance indicators (KPIs) and driving informed decisions.
