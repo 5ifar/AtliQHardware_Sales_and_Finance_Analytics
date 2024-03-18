@@ -46,5 +46,31 @@ Evaluating financial performance, aiding decision-making, and fostering stakehol
     i. For NetSales, COGS, Gross Margin & GM% Metrics set Highlight Cell Formatting with 3 colour scale: White for low values, Yellow for average values and Dark Yellow for high values.
     ii. For the 2021vs2020 Column set Data Bar Formatting with Orange Gradient fill. Set Red Data bar for Negative values to be shown from cell midpoint.
 
+### Adding Months and Quarters in dim_date Data Model:
+1. Add a new column mmm (represents 3 letter months) to the dim_date Data Model using formula: =FORMAT([date], "MMM")
+2. Add a new column fy_month_nbr(represents fiscal month nbr) to the dim_date Data Model using formula: =MONTH(DATE(YEAR([date]), MONTH([date])+4, 1))
+This will get us the month part of 4 months ahead of the date column.
+3. Add a new column quarter(represents fiscal quarter) to the dim_date Data Model using formula: ="Q" & ROUNDUP([fy_month_nbr]/3,0)
+Here, ROUNDUP function acts similar to CEIL function in SQL, it rounds up the value to the next integer. Then we concatenate the “Q” to the start.
 
+### P & L by Month Report:
+1. Copy the P&L by Year Power Pivot sheet to a new sheet and rename sheet and report title to P & L Months.
+2. Add FY to the Filters Area. Add Quarter & mmm columns to the Columns Area.
+3. To order the mmm column values in the Pivot table by fiscal year i.e Sep to Aug, we’ll sort the mmm column in the Data Model by the  fy_month_nbr column in ascending order.
+4. Configure Conditional Formatting: For NetSales, COGS, Gross Margin & GM% Metrics set Highlight Cell Formatting with 3 colour scale: Light Yellow for low values, Yellow for average values and Dark Yellow for high values.
+5. We want the same Pivot Table for all 3 years. Select the entire table from Pivot Table Design copy 3 times and set the different years for each table.
+6. Add the titles for NetSales Metric comparison between 2021 vs 2020 and 2020 vs 2019. Calculate Growth by using basic cell references, dividing the difference in values with the older value and converting it to percentage with 1 decimal accuracy.
 
+### P & L by Markets Report:
+1. Copy the P&L by Year Power Pivot sheet to a new sheet and rename sheet and report title to P & L Markets.
+2. Add sub_zone to the Filters Area. Add NetSales, COGS, Grossmargin & GM% metrics to the Columns Area.
+3. Convert the NetSales, COGS & GrossMargin measures to Million denomination by changing the Value Field Number Format to Custom: #,##0.0,, "M" → This will give measures with 1 decimal accuracy in Millions.
+4. Configure Conditional Formatting: For NetSales, COGS, Gross Margin & GM% Metrics set Highlight Cell Formatting with 3 colour scale: White for low values, Yellow for average values and Dark Yellow for high values.
+
+### GM% by Quarters (sub_zone) Report:
+1. Copy the P&L by Month Power Pivot sheet to a new sheet and rename sheet and report title to  GM% by Quarters (sub_zone).
+2. Keep only FY in Filters Area. Keep quarter in Columns Area. Keep sub_zone in Rows Area. Keep GM% in Values Area. Add a filter for FY 2019.
+3. Configure Conditional Formatting: For GM% Metric set Highlight Cell Formatting with 3 colour scale: White for low values, Yellow for average values and Dark Yellow for high values.
+4. Copy the FY 2019 Power Pivot Table 2 times and set FY filters as 2020 and 2021 respectively.
+
+---
