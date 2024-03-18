@@ -1,4 +1,4 @@
-# 📝 AtliQ Hardwares Project Implementation
+# 📝 AtliQ Hardwares Project Introduction
 
 **Domain:** FMCG
 
