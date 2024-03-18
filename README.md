@@ -10,6 +10,7 @@ The project files have not been uploaded to this repository in compliance with C
 
 ## 📚 Table of Contents
 Please find the resource links for the project below:
-- [AtliQ Hardwares Project Introduction](https://github.com/5ifar/AtliQHardwares/blob/main/AtliQ%20Hardwares%20Project%20Introduction.md)
-- [AtliQ Hardwares Sales & Finance Analytics Report]()
+- [AtliQ Hardwares Project Introduction](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/AtliQ%20Hardwares%20Project%20Introduction.md)
+- [Sales Analytics Reports Documentation](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Documentation.md)
+- [Sales Analytics Reports Files]()
 - [AtliQ Hardwares Report Presentation]()
