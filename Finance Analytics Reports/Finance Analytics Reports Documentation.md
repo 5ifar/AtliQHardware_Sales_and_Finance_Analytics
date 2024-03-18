@@ -22,10 +22,10 @@ Evaluating financial performance, aiding decision-making, and fostering stakehol
 ---
 
 ## Reports List:
-1. P&L - Financial Years Report: Generated P&L reports categorized by markets and analyzed over metrics: NetSales, COGS, GrossMargin & GM% across financial years 2019, 2020 & 2021 with focus on Metric Increment in 2021 vs 2020.
-2. P&L - Financial Months Report: Generated P&L reports analyzed over metrics: NetSales, COGS, GrossMargin & GM% across financial months cycle starting from Sep to Aug.
-3. P&L - Markets Reports: Generated P&L reports categorized by markets and analyzed over metrics: NetSales, COGS, GrossMargin & GM% with a temporary filter context of FY 2021 (can be modified).
-4. GM% - Financial Quarters Report: Analyzed GM% metric categorized by sub zones across financial quarters Q1 to Q4.
+1. [P&L - Financial Years Report](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Finance%20Analytics%20Reports/Finance%20Analytics%20Reports%20Files/P%26L%20-%20Financial%20Years%20Report.pdf): Generated P&L reports categorized by markets and analyzed over metrics: NetSales, COGS, GrossMargin & GM% across financial years 2019, 2020 & 2021 with focus on Metric Increment in 2021 vs 2020.
+2. [P&L - Financial Months Report](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Finance%20Analytics%20Reports/Finance%20Analytics%20Reports%20Files/P%26L%20-%20Financial%20Months%20Report.pdf): Generated P&L reports analyzed over metrics: NetSales, COGS, GrossMargin & GM% across financial months cycle starting from Sep to Aug.
+3. [P&L - Markets Reports](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Finance%20Analytics%20Reports/Finance%20Analytics%20Reports%20Files/P%26L%20-%20Markets%20Report.pdf): Generated P&L reports categorized by markets and analyzed over metrics: NetSales, COGS, GrossMargin & GM% with a temporary filter context of FY 2021 (can be modified).
+4. [GM% - Financial Quarters Report](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Finance%20Analytics%20Reports/Finance%20Analytics%20Reports%20Files/GM%25%20-%20Financial%20Quarters%20Report.pdf): Analyzed GM% metric categorized by sub zones across financial quarters Q1 to Q4.
 
 ---
 
