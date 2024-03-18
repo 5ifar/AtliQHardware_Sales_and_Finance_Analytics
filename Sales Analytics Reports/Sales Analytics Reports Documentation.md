@@ -124,3 +124,49 @@ To Do: Add Product Value Filter for Top 10 products.
    
     ii. For the SalesIncrement2021vs2020% Column set Data Bar Formatting with Orange Gradient fill.
 
+### Division Sales Report:
+1. Copy the Top 10 Products by Sales Increment Power Pivot sheet to a new sheet and rename sheet and report title to Division Sales Report. Remove the preset Top 10 value Filter on Product field.
+2. Replace Product in Rows Area by Division and rename the Column header to reflect the same.
+3. Sort the Pivot Table by Descending SalesIncrement2021vs2020% Column values for best stakeholder experience in identifying Divisions with high Sales Increment % in 2021.
+4. Configure Conditional Formatting:
+
+    i. For Sales 2020 & Sales2021 Column set Highlight Cell Formatting with 3 colour scale: White for low values, Light Yellow for average values and Dark Yellow for high values.
+   
+    ii. For the SalesIncrement2021vs2020% Column set Data Bar Formatting with Orange Gradient fill.
+
+### Top & Bottom 5 Products by Qty Report:
+To Do: Add Qty Value Filter for Top 5 and Bottom 5 products.
+
+*For Top 5 Products:*
+1. Copy the Division Sales Power Pivot sheet to a new sheet and rename sheet and report title to Top & Bottom 5 Products by Qty Report.
+2. Replace Division in Rows Area by Product and rename the Column header to reflect the same. Move Division to Filters Area. Enable Select Multiple Items for Filters.
+3. Remove all irrelevant columns like Sales 2020, Sales 2021 & SalesIncrement2021vs2020%. Add Qty to the Values Area aggregated as SUM.
+4. Convert the Qty column to Million denomination by changing the Value Field Number Format to Custom: #,##0.0,, "M" → This will give Qty with 1 decimal accuracy in Millions.
+5. Configure a Top 5 Value Filter on Products based on Qty column.
+6. Sort the Pivot Table by Descending Qty Column values for best stakeholder experience in identifying high Qty Sold Products.
+7. Configure Conditional Formatting: For Qty Column set Highlight Cell Formatting with 3 colour scale: White for low values, Light Yellow for average values and Dark Yellow for high values.
+
+*For Bottom 5 Products:*
+1. Copy the Top 5 Products Power Pivot Table to a new cell reference.
+2. Modify to Bottom 5 Value Filter on Products based on Qty column.
+3. Convert the Qty column to Thousands denomination by changing the Value Field Number Format to Custom: #,##0.0, "K" → This will give Qty with 1 decimal accuracy in Thousands.
+4. Sort the Pivot Table by Ascending Qty Column values for best stakeholder experience in identifying low Qty Sold Products.
+5. Configure Conditional Formatting: For Qty Column set Highlight Cell Formatting with 3 colour scale: Dark Yellow for low values, Light Yellow for average values and White for high values.
+
+### New Products 2021 Report:
+To Do: Filter the SalesIncrement2021vs2020% value for 0%.
+1. Copy the Top 10 Products by Sales Power Pivot sheet to a new sheet and rename sheet and report title to New Products 2021 by Sales Report.
+2. Remove the preset Top 10 Value filter on Products field. Set a new Value filter to show Products for which SalesIncrement2021vs2020% column value is 0% i.e they did not make any sales in 2020.
+3. Remove the SalesIncrement2021vs2020% field from Values Area.
+4. Sort the Pivot Table by Descending NetSales2021 Column values for best stakeholder experience in identifying New Products with high Sales figures.
+5. Configure Conditional Formatting: For NetSales2021 Column set Highlight Cell Formatting with 3 colour scale: White for low values, Light Yellow for average values and Dark Yellow for high values.
+
+### Top 5 Country 2021 Report:
+To Do: Add NetSales2021 Value Filter for Top 5 Markets.
+1. Copy the Market Sales Performance Power Pivot sheet to a new sheet and rename sheet and report title to Top 5 Country - 2021 Report.
+2. Remove all irrelevant field from the Values Area except the NetSales2021 field. Replace Division by Customer in Filters Area. Enable Select Multiple Items for Filters.
+3. Configure a Top 5 Value Filter on Markets based on NetSales2021 column.
+4. Sort the Pivot Table by Descending NetSales2021 Column values for best stakeholder experience in identifying Countries with high Sales figures.
+5. Configure Conditional Formatting: For NetSales2021 Column set Highlight Cell Formatting with 3 colour scale: White for low values, Light Yellow for average values and Dark Yellow for high values.
+
+---
