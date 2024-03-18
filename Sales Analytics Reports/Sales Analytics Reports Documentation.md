@@ -13,7 +13,7 @@
   - [Market Sales Performance vs Target Report](#Market-Sales-Performance-vs-Target-Report)
   - [Top 10 Products by Sales Increment Report](#Top-10-Products-by-Sales-Increment-Report)
   - [Division Sales Report](#Division-Sales-Report)
-  - [Top & Bottom 5 Products by Qty Report](#Top-&-Bottom-5-Products-by-Qty-Report)
+  - [Top & Bottom 5 Products by Qty Report](#top--bottom-5-products-by-qty-report)
   - [New Products 2021 Report](#new-products-2021-report)
   - [Top 5 Country 2021 Report](#Top-5-Country-2021-Report)
 
