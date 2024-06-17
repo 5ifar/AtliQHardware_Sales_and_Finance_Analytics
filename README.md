@@ -54,5 +54,20 @@ Please find the resource links for the project below:
 
 ![image](https://github.com/5ifar/AtliQHardwares/assets/146955609/fc7d37af-acbf-4596-83dc-8335ee737b0b)
 
+- dim_customer: 189 records | 5 columns
+- dim_market: 23 records | 3 columns
+- dim_product: 298 records | 6 columns
+- fact_sales_monthly: 799962 records | 5 columns
+- ns_targets_2021: 276 records | 3 columns
+- fact_sales_monthly_with_cost: 799962 records | 7 columns
+
 ### Data Dictionary:
 -to be added-
+
+## Data Integrity:
+ROCCC Evaluation:
+- Reliability: MED - The raw dataset is created and updated by Codebasics. It has 6 files.
+- Originality: HIGH - First party provider (Codebasics)
+- Comprehensiveness: MED - Total 6 CSV Files were provided. Dataset contains multiple parameters for Customers, Products & Markets as well as comprehensive Sales & Finance transaction data.
+- Current: LOW - Dataset was updated upto 2021, almost 3 years old. So its obsolete & not very relevant.
+- Citation: LOW - No official citation/reference available.
