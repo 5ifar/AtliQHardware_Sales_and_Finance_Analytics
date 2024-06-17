@@ -36,3 +36,15 @@ Please find the resource links for the project below:
 - [Finance Analytics Reports Documentation](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Finance%20Analytics%20Reports/Finance%20Analytics%20Reports%20Documentation.md)
 - [Finance Analytics Reports Files](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/tree/main/Finance%20Analytics%20Reports/Finance%20Analytics%20Reports%20Files)
 - [AtliQ Hardware Report Presentation](https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/AtliQ%20Hardware%20Report%20Presentation.pptx)
+
+## Tools used:
+1. Microsoft Excel: for Data Cleaning, Data Analysis & Visualization
+2. Microsoft Powerpoint: for creating Project Presentation
+3. GitHub - for Documentation
+
+## Skills & Methodologies Implemented:
+1. Data Cleaning: Power Query
+2. Data Manipulation: DAX Measures & Columns
+3. Data Modelling and Normalization
+4. Data Visualization: Pivot Table, Power Pivot, Conditional Formatting
+5. Documentation
