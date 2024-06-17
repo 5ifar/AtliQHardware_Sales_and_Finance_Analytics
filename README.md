@@ -71,3 +71,9 @@ ROCCC Evaluation:
 - Comprehensiveness: MED - Total 6 CSV Files were provided. Dataset contains multiple parameters for Customers, Products & Markets as well as comprehensive Sales & Finance transaction data.
 - Current: LOW - Dataset was updated upto 2021, almost 3 years old. So its obsolete & not very relevant.
 - Citation: LOW - No official citation/reference available.
+
+## Data Model:
+### Entity Relationship Diagram (ERD):
+
+<img src="https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/Assets/AtliQ%20Hardware%20Data%20Model%20ERD%20Final.JPG" width="100%" height="100%">
+
