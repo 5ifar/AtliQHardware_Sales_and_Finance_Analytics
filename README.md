@@ -1,5 +1,8 @@
-# <img src="https://miro.medium.com/v2/resize:fit:1400/1*8bUjUiCWk0VhS8-lgAj0Og.png" width="4%" height="4%"> AtliQ Hardwares - Sales & Finance Analytics
-This repository serves as my documentation for the AtliQ Hardwares Sales & Finance Analytics Excel Project.
+# <img src="https://miro.medium.com/v2/resize:fit:1400/1*8bUjUiCWk0VhS8-lgAj0Og.png" width="4%" height="4%"> AtliQ Hardware - Sales & Finance Analytics
+
+<img src="https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics/blob/main/Assets/Project%20Repo%20Banner.png" width="100%" height="100%">
+
+This repository serves as my documentation for the AtliQ Hardware Sales & Finance Analytics Excel Project.
 It was created as a self-learning project for the course: [Excel: Mother of Business Intelligence](https://codebasics.io/courses/excel-mother-of-business-intelligence) by [Codebasics](https://codebasics.io/).
 
 It showcases my competancy to work with Microsoft Excel and demonstrates my proficiency in essential Excel concepts like ETL with Power Query, Data Modelling, VLOOKUP/INDEX-MATCH/XLOOKUP Table Joining, Pivot Table, Power Pivot, DAX Measures, Conditional Formating etc.
@@ -10,9 +13,9 @@ The project files have not been uploaded to this repository in compliance with C
 
 ## 📚 Table of Contents
 Please find the resource links for the project below:
-- [AtliQ Hardwares Project Introduction](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/AtliQ%20Hardwares%20Project%20Introduction.md)
+- [AtliQ Hardware Project Introduction](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/AtliQ%20Hardwares%20Project%20Introduction.md)
 - [Sales Analytics Reports Documentation](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Documentation.md)
 - [Sales Analytics Reports Files](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/tree/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Files)
 - [Finance Analytics Reports Documentation](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Finance%20Analytics%20Reports/Finance%20Analytics%20Reports%20Documentation.md)
 - [Finance Analytics Reports Files](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/tree/main/Finance%20Analytics%20Reports/Finance%20Analytics%20Reports%20Files)
-- [AtliQ Hardwares Report Presentation](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/AtliQ%20Hardwares%20Report%20Presentation.pptx)
+- [AtliQ Hardware Report Presentation](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/AtliQ%20Hardwares%20Report%20Presentation.pptx)
