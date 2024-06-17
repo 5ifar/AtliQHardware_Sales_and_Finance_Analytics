@@ -42,9 +42,17 @@ Please find the resource links for the project below:
 2. Microsoft Powerpoint: for creating Project Presentation
 3. GitHub - for Documentation
 
-## Skills & Methodologies Implemented:
+## Skills & Methodologies implemented:
 1. Data Cleaning: Power Query
 2. Data Manipulation: DAX Measures & Columns
 3. Data Modelling and Normalization
 4. Data Visualization: Pivot Table, Power Pivot, Conditional Formatting
 5. Documentation
+
+## About the Dataset:
+### Data Sources: Sales & Finance
+
+![image](https://github.com/5ifar/AtliQHardwares/assets/146955609/fc7d37af-acbf-4596-83dc-8335ee737b0b)
+
+### Data Dictionary:
+-to be added-
