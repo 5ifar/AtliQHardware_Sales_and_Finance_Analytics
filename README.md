@@ -11,7 +11,19 @@ The entire project has been implemented using Microsoft Excel 2016.
 
 The project files have not been uploaded to this repository in compliance with Codebasics Data & Content Distribution Policy.
 
-## 📚 Table of Contents
+## Introduction:
+**Domain:** FMCG | **Functions:** Sales & Finance
+
+- AtliQ Hardwares is company that sells computer hardware and peripherals like PC, mouse, printer etc. to clients across the world.
+- They have a major B2B business model wherein they sell to stores like Croma, Best Buy, Staples, Flipkart etc. who then sell it to the end users (consumers). These stores are their main customers.
+- They sell through 3 channels: Retailer, Direct and Distributor.
+- AtliQ Hardwares’s Customers are of two types. Both these Platforms are called Retailer channels.
+  1. Brick & Mortar Customer: Actual physical stores e.g. Croma, Best Buy
+  2. E-commerce Customer: Online websites E.g. Amazon, Flipkart
+- AtliQ Hardwares also has a minor B2C business model wherein they own stores: AtliQ E-store and AtliQ Exclusive. These are called Direct channels.
+- They also have Distributors in some countries with restricted trade. E.g. Neptune
+
+## Table of Contents:
 Please find the resource links for the project below:
 - [AtliQ Hardware Project Introduction](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/AtliQ%20Hardwares%20Project%20Introduction.md)
 - [Sales Analytics Reports Documentation](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Documentation.md)
