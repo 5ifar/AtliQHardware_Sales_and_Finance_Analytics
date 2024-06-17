@@ -30,9 +30,9 @@ AtliQ Hardwares is facing significant losses in recent years. They have been rel
 
 ## Table of Contents:
 Please find the resource links for the project below:
-- [AtliQ Hardware Project Introduction](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/AtliQ%20Hardwares%20Project%20Introduction.md)
+- [AtliQ Hardware Collated Report](https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/AtliQ%20Hardwares%20Collated%20Report.pdf)
 - [Sales Analytics Reports Documentation](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Documentation.md)
 - [Sales Analytics Reports Files](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/tree/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Files)
 - [Finance Analytics Reports Documentation](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Finance%20Analytics%20Reports/Finance%20Analytics%20Reports%20Documentation.md)
 - [Finance Analytics Reports Files](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/tree/main/Finance%20Analytics%20Reports/Finance%20Analytics%20Reports%20Files)
-- [AtliQ Hardware Report Presentation](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/AtliQ%20Hardwares%20Report%20Presentation.pptx)
+- [AtliQ Hardware Report Presentation](https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/AtliQ%20Hardware%20Report%20Presentation.pptx)
