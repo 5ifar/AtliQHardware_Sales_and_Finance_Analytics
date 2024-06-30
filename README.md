@@ -117,6 +117,12 @@ ROCCC Evaluation:
 <img src="https://datawrapper.dwcdn.net/Xj08J/full.png" alt="" />
 
 - Top Surging Product: `AQ Mx NB` surges in demand almost `57` times from `2020` to `2021`.
+
+<img src="https://datawrapper.dwcdn.net/OdCYE/full.png" alt="" />
+
 - Top New Product: `AQ Qwerty` leading sales at `$ 22 Million` among the 16 new products introduced in `2021`.
+
+<img src="https://datawrapper.dwcdn.net/mcbgG/full.png" alt="" />
+
 - Gross Margin % takes the biggest hit of `-3.1%` in `2021` compared to `2020` for the `PC` region.
 - Sales peak consistently during Festive season months from `October` to `December` across the globe following the trend across years.
