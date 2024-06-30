@@ -101,7 +101,13 @@ ROCCC Evaluation:
 <img src="https://datawrapper.dwcdn.net/qU7i7/full.png" alt="" />
 
 - `India` dominates as the forerunner with Net Sales at a staggering `$ 161.3 Million` in `2021`, while missing to meet its 2021 Net Sales Targets by `$ 9.6 Million (5.6%)`.
+
+<img src="https://datawrapper.dwcdn.net/aLbnS/full.png" alt="" />
+
 - Across the globe, `Poland` fails to meet its `2021` Net Sales Targets by the widest margin of around `-15%`.
+
+<img src="https://datawrapper.dwcdn.net/qxZsY/full.png" alt="" />
+
 - Top 3 customers: `Amazon`, `AtliQ Exclusive`, `AtliQ e-store` in `2021` with individual Net Sales over `$ 50 Million`.
 - Top Selling Product: `AQ Master wired x1 Ms` with over `4.2 Million` units sold from `2019` to `2021`.
 - Top Surging Product: `AQ Mx NB` surges in demand almost `57` times from `2020` to `2021`.
