@@ -92,37 +92,25 @@ ROCCC Evaluation:
 ---
 
 ## Analysis Insights:
-- Customer `Amazon` tops the charts by grossing Net Sales of `$ 82.1 Million` in `2021`, while experiencing the lowest sales increment rate of `120%`.
 
 <img src="https://datawrapper.dwcdn.net/MYLHC/full.png" alt="" />
 
-- Customer `Nova` comes out with the Lowest Net Sales of `$ 0.4 Million` in `2021`, while it experienced a sudden high surge in Sales with the Net Sales figure increasing almost `26.6` times from 2020 to 2021.
-
 <img src="https://datawrapper.dwcdn.net/qU7i7/full.png" alt="" />
-
-- `India` dominates as the forerunner with Net Sales at a staggering `$ 161.3 Million` in `2021`, while missing to meet its 2021 Net Sales Targets by `$ 9.6 Million (5.6%)`.
 
 <img src="https://datawrapper.dwcdn.net/aLbnS/full.png" alt="" />
 
-- Across the globe, `Poland` fails to meet its `2021` Net Sales Targets by the widest margin of around `-15%`.
-
 <img src="https://datawrapper.dwcdn.net/qxZsY/full.png" alt="" />
-
-- Top 3 customers: `Amazon`, `AtliQ Exclusive`, `AtliQ e-store` in `2021` with individual Net Sales over `$ 50 Million`.
 
 <img src="https://datawrapper.dwcdn.net/j22dx/full.png" alt="" />
 
-- Top Selling Product: `AQ Master wired x1 Ms` with over `4.2 Million` units sold from `2019` to `2021`.
-
 <img src="https://datawrapper.dwcdn.net/Xj08J/full.png" alt="" />
-
-- Top Surging Product: `AQ Mx NB` surges in demand almost `57` times from `2020` to `2021`.
 
 <img src="https://datawrapper.dwcdn.net/OdCYE/full.png" alt="" />
 
-- Top New Product: `AQ Qwerty` leading sales at `$ 22 Million` among the 16 new products introduced in `2021`.
-
 <img src="https://datawrapper.dwcdn.net/mcbgG/full.png" alt="" />
 
-- Gross Margin % takes the biggest hit of `-3.1%` in `2021` compared to `2020` for the `PC` region.
-- Sales peak consistently during Festive season months from `October` to `December` across the globe following the trend across years.
+<img src="https://datawrapper.dwcdn.net/SxD4Y/full.png" alt="" />
+
+<img src="https://datawrapper.dwcdn.net/ITvwk/full.png" alt="" />
+
+---
