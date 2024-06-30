@@ -49,7 +49,8 @@ Please find the resource links for the project below:
 ## Tools used:
 1. Microsoft Excel: for Data Cleaning, Data Analysis & Visualization
 2. Microsoft Powerpoint: for creating Project Presentation
-3. GitHub - for Documentation
+3. DataWrapper: for Insights Visuals
+4. GitHub - for Documentation
 
 ## Skills & Methodologies implemented:
 1. Data Cleaning: Power Query
@@ -92,7 +93,13 @@ ROCCC Evaluation:
 
 ## Analysis Insights:
 - Customer `Amazon` tops the charts by grossing Net Sales of `$ 82.1 Million` in `2021`, while experiencing the lowest sales increment rate of `120%`.
+
+<img src="https://datawrapper.dwcdn.net/MYLHC/full.png" alt="" />
+
 - Customer `Nova` comes out with the Lowest Net Sales of `$ 0.4 Million` in `2021`, while it experienced a sudden high surge in Sales with the Net Sales figure increasing almost `26.6` times from 2020 to 2021.
+
+<img src="https://datawrapper.dwcdn.net/qU7i7/full.png" alt="" />
+
 - `India` dominates as the forerunner with Net Sales at a staggering `$ 161.3 Million` in `2021`, while missing to meet its 2021 Net Sales Targets by `$ 9.6 Million (5.6%)`.
 - Across the globe, `Poland` fails to meet its `2021` Net Sales Targets by the widest margin of around `-15%`.
 - Top 3 customers: `Amazon`, `AtliQ Exclusive`, `AtliQ e-store` in `2021` with individual Net Sales over `$ 50 Million`.
