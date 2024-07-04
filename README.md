@@ -30,7 +30,7 @@ AtliQ Hardwares is facing significant losses in recent years. They have been rel
 
 **Business Requirement:** AtliQ’s business users have tasked the Data Analyst team with preparing an Excel Analysis Report focused on Sales and Financial performance by analyzing data from multiple files with over 1.5 million records to help them derive data insights towards boosting business growth.
 
-## Table of Contents:
+## Contents:
 Please find the resource links for the project below:
 - [Introduction](#introduction)
   - [Problem Statement](#problem-statement)
