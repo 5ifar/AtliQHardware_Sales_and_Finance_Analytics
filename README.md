@@ -1,6 +1,6 @@
 # <img src="https://miro.medium.com/v2/resize:fit:1400/1*8bUjUiCWk0VhS8-lgAj0Og.png" width="4%" height="4%"> AtliQ Hardware - Sales & Finance Analytics
 
-<img src="https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics/blob/main/Assets/Project%20Repo%20Banner.png" width="100%" height="100%">
+<img src="https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/Assets/AtliQ%20Hardware%20-%20S%26F%20Analysis%20Project%20Thumbnail%2BIcon.png" width="100%" height="100%">
 
 This repository serves as my documentation for the AtliQ Hardware Sales & Finance Analytics Excel Project.
 It was created as a self-learning project for the course: [Excel: Mother of Business Intelligence](https://codebasics.io/courses/excel-mother-of-business-intelligence) by [Codebasics](https://codebasics.io/).
