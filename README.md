@@ -5,11 +5,29 @@
 This repository serves as my documentation for the AtliQ Hardware Sales & Finance Analytics Excel Project.
 It was created as a self-learning project with guidance from [Codebasics](https://codebasics.io/).
 
-It showcases my competancy to work with Microsoft Excel and demonstrates my proficiency in essential Excel concepts like ETL with Power Query, Data Modelling, VLOOKUP/INDEX-MATCH/XLOOKUP Table Joining, Pivot Table, Power Pivot, DAX Measures, Conditional Formating etc.
+It showcases my competancy to work with Microsoft Excel and demonstrates my proficiency in essential Excel concepts like **ETL with Power Query, Data Modelling, VLOOKUP/INDEX-MATCH/XLOOKUP Table Joining, Pivot Table, Power Pivot, DAX Measures, Conditional Formating** etc.
 
 The entire project has been implemented using Microsoft Excel 2016.
 
 The project files have not been uploaded to this repository in compliance with Codebasics Data & Content Distribution Policy.
+
+---
+
+## Contents:
+Please find the resource links for the project below:
+- [Introduction](#introduction)
+  - [Problem Statement](#problem-statement)
+- [AtliQ Hardware Compiled Report](https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/AtliQ%20Hardware%20Compiled%20Report.pdf)
+- [Sales Analytics Reports](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/tree/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Files)
+  - [Sales Analytics Reports Documentation](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Documentation.md)
+- [Finance Analytics Reports](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/tree/main/Finance%20Analytics%20Reports/Finance%20Analytics%20Reports%20Files)
+  - [Finance Analytics Reports Documentation](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Finance%20Analytics%20Reports/Finance%20Analytics%20Reports%20Documentation.md)
+- [AtliQ Hardware Report Presentation](https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/AtliQ%20Hardware%20Report%20Presentation.pptx)
+- [Tools used & Methodologies implemented](#tools-used)
+- [About the Dataset](#about-the-dataset)
+  - [Data Integrity](#data-integrity)
+- [Data Model - ERD](#data-model)
+- [Analysis Insights](#analysis-insights)
 
 ---
 
@@ -30,22 +48,6 @@ AtliQ Hardwares is facing significant losses in recent years. They have been rel
 
 **Business Requirement:** AtliQ’s business users have tasked the Data Analyst team with preparing an Excel Analysis Report focused on Sales and Financial performance by analyzing data from multiple files with over 1.5 million records to help them derive data insights towards boosting business growth.
 
-## Contents:
-Please find the resource links for the project below:
-- [Introduction](#introduction)
-  - [Problem Statement](#problem-statement)
-- [AtliQ Hardware Compiled Report](https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/AtliQ%20Hardware%20Compiled%20Report.pdf)
-- [Sales Analytics Reports](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/tree/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Files)
-  - [Sales Analytics Reports Documentation](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Documentation.md)
-- [Finance Analytics Reports](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/tree/main/Finance%20Analytics%20Reports/Finance%20Analytics%20Reports%20Files)
-  - [Finance Analytics Reports Documentation](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Finance%20Analytics%20Reports/Finance%20Analytics%20Reports%20Documentation.md)
-- [AtliQ Hardware Report Presentation](https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/AtliQ%20Hardware%20Report%20Presentation.pptx)
-- [Tools used & Methodologies implemented](#tools-used)
-- [About the Dataset](#about-the-dataset)
-  - [Data Integrity](#data-integrity)
-- [Data Model - ERD](#data-model)
-- [Analysis Insights](#analysis-insights)
-
 ## Tools used:
 1. Microsoft Excel: for Data Cleaning, Data Analysis & Visualization
 2. Microsoft Powerpoint: for creating Project Presentation
@@ -58,6 +60,8 @@ Please find the resource links for the project below:
 3. Data Modelling and Normalization
 4. Data Visualization: Pivot Table, Power Pivot, Conditional Formatting
 5. Documentation
+
+---
 
 ## About the Dataset:
 ### Data Sources: Sales & Finance
