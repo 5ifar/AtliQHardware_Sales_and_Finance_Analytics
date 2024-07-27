@@ -14,7 +14,7 @@ The project files have not been uploaded to this repository in compliance with C
 ---
 
 ## Contents:
-Please find the resource links for the project below:
+Please find the sectional links for the project below:
 - [Introduction](#introduction)
   - [Problem Statement](#problem-statement)
 - [AtliQ Hardware Compiled Report](https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/AtliQ%20Hardware%20Compiled%20Report.pdf)
