@@ -2,10 +2,7 @@
 
 <img src="https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/Assets/AtliQ%20Hardware%20-%20S%26F%20Analysis%20Project%20Thumbnail%2BIcon.png" width="100%" height="100%">
 
-This repository serves as my documentation for the AtliQ Hardware Sales & Finance Analytics Excel Project.
-It was created as a self-learning project with guidance from [Codebasics](https://codebasics.io/).
-
-It showcases my competancy to work with Microsoft Excel and demonstrates my proficiency in essential Excel concepts like **ETL with Power Query, Data Modelling, VLOOKUP/INDEX-MATCH/XLOOKUP Table Joining, Pivot Table, Power Pivot, DAX Measures, Conditional Formating** etc.
+This repository serves as my documentation for the AtliQ Hardware Sales & Finance Analytics Excel Project. It was created as a self-learning project with guidance from [Codebasics](https://codebasics.io/).
 
 The entire project has been implemented using Microsoft Excel 2016.
 
@@ -55,10 +52,10 @@ AtliQ Hardwares is facing significant losses in recent years. They have been rel
 4. GitHub - for Documentation
 
 ## Skills & Methodologies implemented:
-1. Data Cleaning: Power Query
-2. Data Manipulation: DAX Measures & Columns
+1. Data Cleaning: **ETL, Power Query**
+2. Data Manipulation: **VLOOKUP/INDEX-MATCH/XLOOKUP Table Joining, DAX Measures & Columns**
 3. Data Modelling and Normalization
-4. Data Visualization: Pivot Table, Power Pivot, Conditional Formatting
+4. Data Visualization: **Pivot Table, Power Pivot, Conditional Formatting**
 5. Documentation
 
 ---
